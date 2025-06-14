@@ -30,15 +30,7 @@ Key:
 
 ## Listening
 
-### Podcasts
-
 - **YUYUの日本語Podcast** ([YouTube](https://www.youtube.com/channel/UC8dWfySP_cKDMFj6aFfQbFA), [Spotify](https://open.spotify.com/show/0hQDsR0brfk88Nls8fydo4), [Apple Podcasts](https://podcasts.apple.com/us/podcast/yuyu%E3%81%AE%E6%97%A5%E6%9C%AC%E8%AA%9Epodcast-japanese-podcast/id1480155677)) - Podcast on general topics, created with learners in mind. Episodes on YouTube have subtitles.
-
-### Music
-
-- **Ichiko Aoba** ([Website](https://ichikoaoba.com/ja/), [Bandcamp](https://ichikoaoba.bandcamp.com/), [Spotify](https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs)) - Japanese folk singer.
-- **Kalafina** ([Website](https://www.kalafina.jp/), [YouTube](https://www.youtube.com/channel/UCnRbD__LEKBj_ZR_dC8KmzQ), [Spotify](https://open.spotify.com/artist/2otsTXVV2ZWZ8T5LPzsBhy)) - Japanese vocal group. A bunch of their songs are in anime.
-- ***My Other Half* (EP)** ([Bandcamp](https://ayasafiya.bandcamp.com/album/my-other-half), [Spotify](https://open.spotify.com/album/16imuhH3tdBHCOislGY2o6)) - Japanese-only EP by LA-based artist Aya Safiya. This is her only work in Japanese as far as I know.
 
 ## Tools
 
