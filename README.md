@@ -50,7 +50,7 @@ Key:
 
 ## Other
 
-- **[Dogen](https://www.youtube.com/@Dogen)** - Japanese teacher who makes comedy skits and videos about Japanese language & culture.
+- **[Dogen](https://www.youtube.com/@Dogen)** - Japanese teacher who makes comedy skits and informational videos about Japanese language & culture.
 - **[KanjiTalk 7.5.3](https://infinitemac.org/1996/KanjiTalk%207.5.3)** - Emulate the Japanese edition of Mac OS System 7 (1996) right in your web browser.
 - **[Rachel & Jun's Adventures!](https://www.youtube.com/@RachelandJunAdventures)** - American/Japanese married couple vlogging about life in Japan with their four cats (mostly in English).
   - **[Rachel and Jun](https://www.youtube.com/@RachelandJun/videos)** - Their older channel. I don't know why they have two.
