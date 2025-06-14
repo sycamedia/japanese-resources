@@ -1,6 +1,6 @@
 # Japanese learning resources
 
-Collection of Japanese language-learning resources that I have personally used and liked.
+Collection of Japanese language-learning resources (and related things) that I have personally used and liked.
 
 Key:
 - 💵 Freemium or paid
@@ -28,6 +28,18 @@ Key:
 - **[NHK News Web Easy](https://www3.nhk.or.jp/news/easy/)** - News articles and videos for learners.
 - **[Satori Reader](https://www.satorireader.com/)** 💵🦀 - Collection of story series in various genres.
 
+## Listening
+
+### Podcasts
+
+- **YUYUの日本語Podcast** ([YouTube](https://www.youtube.com/channel/UC8dWfySP_cKDMFj6aFfQbFA), [Spotify](https://open.spotify.com/show/0hQDsR0brfk88Nls8fydo4), [Apple Podcasts](https://podcasts.apple.com/us/podcast/yuyu%E3%81%AE%E6%97%A5%E6%9C%AC%E8%AA%9Epodcast-japanese-podcast/id1480155677)) - Podcast on general topics, created with learners in mind. Episodes on YouTube have subtitles.
+
+### Music
+
+- **Ichiko Aoba** ([Website](https://ichikoaoba.com/ja/), [Bandcamp](https://ichikoaoba.bandcamp.com/), [Spotify](https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs)) - Japanese folk singer.
+- **Kalafina** ([Website](https://www.kalafina.jp/), [YouTube](https://www.youtube.com/channel/UCnRbD__LEKBj_ZR_dC8KmzQ), [Spotify](https://open.spotify.com/artist/2otsTXVV2ZWZ8T5LPzsBhy)) - Japanese vocal group. A bunch of their songs are in anime.
+- ***My Other Half* (EP)** ([Bandcamp](https://ayasafiya.bandcamp.com/album/my-other-half), [Spotify](https://open.spotify.com/album/16imuhH3tdBHCOislGY2o6)) - Japanese-only EP by LA-based artist Aya Safiya. This is her only work in Japanese as far as I know.
+
 ## Tools
 
 - **[ichi.moe](https://ichi.moe/)** - Paste Japanese text and get a breakdown. (Thanks, Chris-san!)
@@ -35,3 +47,11 @@ Key:
 - **[Shirabe Jisho](https://ricoapps.com/)** 📱 - Japanese dictionary for iOS.
 - **[wkstats](https://www.wkstats.com/login)** 🦀 - Tool for evaluating your WaniKani progress.
 - **[yomitan](https://yomitan.wiki/)** 🌐 - Pop-up dictionary extension for your browser.
+
+## Other
+
+- **[Dogen](https://www.youtube.com/@Dogen)** - Japanese teacher who makes comedy skits and videos about Japanese language & culture.
+- **[KanjiTalk 7.5.3](https://infinitemac.org/1996/KanjiTalk%207.5.3)** - Emulate the Japanese edition of Mac OS System 7 (1996) right in your web browser.
+- **[Rachel & Jun's Adventures!](https://www.youtube.com/@RachelandJunAdventures)** - American/Japanese married couple vlogging about life in Japan with their four cats (mostly in English).
+  - **[Rachel and Jun](https://www.youtube.com/@RachelandJun/videos)** - Their older channel. I don't know why they have two.
+  - **[Jun's Kitchen](https://www.youtube.com/@JunsKitchen)** - Jun's mostly food-focused side channel.
