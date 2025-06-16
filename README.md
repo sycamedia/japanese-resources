@@ -16,7 +16,7 @@ Key:
 - **[Genki Study Resources](https://sethclydesdale.github.io/genki-study-resources/lessons-3rd/)** - Practice exercises based on the Genki I & II textbooks.
 - **[Japanese Kanji Study](https://play.google.com/store/apps/details?id=com.mindtwisted.kanjistudy)** 💵▶️ - Lessons, practice, and highly detailed kanji info. 
 - **[LingoDeer](https://www.lingodeer.com/)** 💵🌐 - Like Duolingo but better for Japanese and less annoying. 
-- **[Sakubun (quiz page)](https://sakubun.xyz/quiz)** 🦀 - Short reading drills using the kanji you know.
+- **[Sakubun](https://sakubun.xyz/)** 🦀 - Short reading drills using the kanji you know.
 - **[WaniKani](https://www.wanikani.com/)** 💵 - Yes, I'm a disciple of the Crabigator. Yes, I have a lifetime account. (They go on sale every year. Just saying.) Join our beautiful kanji-recognizing, vocabulary-expanding ~~cult~~ community. 
   - **[KaniWani](https://www.kaniwani.com/welcome)** 🦀 - WaniKani reviews with the English and Japanese reversed, to practice language production. 
   - **[Tsurukame](https://apps.apple.com/us/app/tsurukame-for-wanikani/id1367114761)** 📱🦀 - Native iOS interface for WaniKani so you can knock out those reviews anywhere.
