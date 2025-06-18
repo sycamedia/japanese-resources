@@ -29,7 +29,7 @@ Key:
 ## Reading
 
 - **[Free Tadoku Books](https://tadoku.org/japanese/en/free-books-en/)** - Free books for learners. (Thanks, Shimomura-sensei!)
-- **[Japanese Stories for Language Learners](https://www.tuttlepublishing.com/japan/japanese-stories-for-language-learners)** 📖 - Book of short stories with English and Japanese text and accompanying audio. 
+- **[Japanese Stories for Language Learners](https://www.tuttlepublishing.com/japan/japanese-stories-for-language-learners)** 💵📖 - Book of short stories with English and Japanese text and accompanying audio. 
 - **[NHK News Web Easy](https://www3.nhk.or.jp/news/easy/)** - News articles and videos for learners.
 - **[Satori Reader](https://www.satorireader.com/)** 💵🦀 - Collection of story series in various genres.
 
