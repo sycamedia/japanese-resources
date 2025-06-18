@@ -7,6 +7,7 @@ Key:
 - 📱 iOS
 - ▶️ Android
 - 📖 Print
+- 📜 Extension/userscript/plugin
 - 🦀 Integrates with the WaniKani API
 - 🌐 Other languages supported
 
@@ -18,9 +19,11 @@ Key:
 - **[LingoDeer](https://www.lingodeer.com/)** 💵🌐 - Like Duolingo but better for Japanese and less annoying. 
 - **[Sakubun](https://sakubun.xyz/)** 🦀 - Reading practice using the kanji you know. I recommend using this with [yomitan](https://yomitan.wiki/) and/or [ichi.moe](https://ichi.moe/) to help you identify unfamiliar words and verb forms in the quiz sentences.
 - **[WaniKani](https://www.wanikani.com/)** 💵 - Yes, I'm a disciple of the Crabigator. Yes, I have a lifetime account. (They go on sale every year. Just saying.) Join our beautiful kanji-recognizing, vocabulary-expanding ~~cult~~ community.
-  - **[KaniWani](https://www.kaniwani.com/welcome)** 🦀 - WaniKani reviews with the English and Japanese reversed, to practice language production. 
+  - **[ConfusionGuesser](https://community.wanikani.com/t/userscript-confusionguesser/38432)** 📜 - Userscript for WaniKani that tries to guess what kanji you were really thinking of when you get an answer wrong.
+  - **[KaniWani](https://www.kaniwani.com/welcome)** 🦀 - Web app for WaniKani reviews with the English and Japanese reversed, to practice language production. 
   - **[Tsurukame](https://apps.apple.com/us/app/tsurukame-for-wanikani/id1367114761)** 📱🦀 - Native iOS interface for WaniKani so you can knock out those reviews anywhere.
-  - **[wkstats](https://www.wkstats.com/login)** 🦀 - Tool for evaluating your WaniKani progress.
+  - **[WaniKani Double-Check](https://community.wanikani.com/t/userscript-double-check-version-2x/31456)** 📜 - Userscript for WaniKani reviews that allows you to auto-advance after a correct answer, fix typos in your answer, and override an answer marked right/wrong. (Use responsibly.)
+  - **[wkstats](https://www.wkstats.com/login)** 🦀 - External tool for evaluating your WaniKani progress.
   - Find additional scripts/extensions/apps for WaniKani [in this community post.](https://community.wanikani.com/t/the-new-and-improved-list-of-api-and-third-party-apps/7694)
 
 ## Reading
@@ -39,7 +42,7 @@ Key:
 - **[ichi.moe](https://ichi.moe/)** - Paste Japanese text and get a breakdown. (Thanks, Chris-san!)
 - **[Jisho.org](https://jisho.org/)** - Online Japanese dictionary.
 - **[Shirabe Jisho](https://ricoapps.com/)** 📱 - Japanese dictionary for iOS.
-- **[yomitan](https://yomitan.wiki/)** 🌐 - Pop-up dictionary extension for your browser.
+- **[yomitan](https://yomitan.wiki/)** 📜🌐 - Pop-up dictionary extension for your browser.
 
 ## Other
 
