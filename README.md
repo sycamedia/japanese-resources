@@ -2,7 +2,7 @@
 
 Collection of Japanese language-learning resources (and related things) that I have personally used and liked.
 
-Key:
+ Key:
 - 💵 Freemium or paid
 - 📱 iOS
 - ▶️ Android
@@ -10,6 +10,7 @@ Key:
 - 📜 Extension/userscript/plugin
 - 🦀 Integrates with the WaniKani API
 - 🌐 Other languages supported
+
 
 ## Lessons & drills
 
@@ -49,6 +50,7 @@ Key:
 - **[Dogen](https://www.youtube.com/@Dogen)** - Japanese teacher who makes comedy skits and informational videos about Japanese language & culture.
 - **[Japanese Word Search](https://www.japanesewordsearch.com/?category=JLPT%20N5)** - Web-based word search game. Vocabulary lists are grouped by topics or JLPT levels.
 - **Japanese Wordsearch** ([Apple app store](https://apps.apple.com/us/app/japanese-wordsearch/id1525919607), [Microsoft store](https://apps.microsoft.com/detail/9nsjz6p2v99w?ocid=webpdpshare), [Google Play store](https://play.google.com/store/apps/details?id=net.kakitai.japanesewordsearch)) 📱▶️ - Different developer from the one above. Doesn't have themed vocab lists, but does have more options for the grid setup.
+- **[Kanji on the street](https://www.youtube.com/playlist?list=PLP6jQzrtQ71_B-SU8S984GAtn9orJlHfs)** - Playlist of videos identifying kanji in real-world contexts, by YouTuber [Miku Real Japanese](https://www.youtube.com/@mikurealjapanese).
 - **[KanjiTalk 7.5.3](https://infinitemac.org/1996/KanjiTalk%207.5.3)** - Emulate the Japanese edition of Mac OS System 7 (1996) right in your web browser.
 - **[Rachel & Jun's Adventures!](https://www.youtube.com/@RachelandJunAdventures)** - American/Japanese married couple vlogging about life in Japan with their four cats (mostly in English).
   - **[Rachel and Jun](https://www.youtube.com/@RachelandJun/videos)** - Their older channel. I don't know why they have two.
