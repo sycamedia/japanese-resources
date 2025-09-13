@@ -16,7 +16,7 @@ Collection of Japanese language-learning resources (and related things) that I h
 
 - **[Bunpro](bunpro.jp)** 💵🦀 - Highly customizable grammar and vocab lessons with a spaced repetition system for reviews. 
 - **[Don’s Japanese Conjugation Drill](https://wkdonc.github.io/conjugation/drill.html)** - Exactly what it sounds like.
-- **[Genki Study Resources](https://sethclydesdale.github.io/genki-study-resources/lessons-3rd/)** - Practice exercises based on the Genki I & II textbooks.
+- ~~**[Genki Study Resources](https://sethclydesdale.github.io/genki-study-resources/lessons-3rd/)** - Practice exercises based on the Genki I & II textbooks.~~ Content related to Genki 3rd edition was recently removed after a DMCA takedown notice—[read more here](https://ko-fi.com/post/Important-Information-Regarding-Genki-and-Quartet-D1D21L4B1S). (9/13/25)
 - **[Japanese Kanji Study](https://play.google.com/store/apps/details?id=com.mindtwisted.kanjistudy)** 💵▶️ - Lessons, practice, and highly detailed kanji info. 
 - **[LingoDeer](https://www.lingodeer.com/)** 💵🌐 - Like Duolingo but better for Japanese and less annoying. 
 - **[Sakubun](https://sakubun.xyz/)** 🦀 - Reading practice using the kanji you know. I recommend using this with [yomitan](https://yomitan.wiki/) and/or [ichi.moe](https://ichi.moe/) to help you identify unfamiliar words and verb forms in the quiz sentences.
