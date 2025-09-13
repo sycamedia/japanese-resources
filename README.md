@@ -37,6 +37,7 @@ Collection of Japanese language-learning resources (and related things) that I h
 
 ## Listening
 
+- **Japanese with Shun** ([YouTube](https://www.youtube.com/@JapanesewithShun), [Spotify](https://open.spotify.com/show/0TWRqowC0TPhXlG79M0qzv?si=256567bda2664d90), [Apple Podcasts](https://podcasts.apple.com/us/podcast/japanese-with-shun/id1550709885)) - Shorter podcast episodes targeting N5-N4 learners. YouTube channel has vlogs as well. 
 - **YUYUの日本語Podcast** ([YouTube](https://www.youtube.com/channel/UC8dWfySP_cKDMFj6aFfQbFA), [Spotify](https://open.spotify.com/show/0hQDsR0brfk88Nls8fydo4), [Apple Podcasts](https://podcasts.apple.com/us/podcast/yuyu%E3%81%AE%E6%97%A5%E6%9C%AC%E8%AA%9Epodcast-japanese-podcast/id1480155677)) - Podcast on general topics, created with learners in mind. Episodes on YouTube have subtitles.
 
 ## Tools
