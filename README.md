@@ -57,3 +57,4 @@ Collection of Japanese language-learning resources (and related things) that I h
 - **[Rachel & Jun's Adventures!](https://www.youtube.com/@RachelandJunAdventures)** - American/Japanese married couple vlogging about life in Japan with their four cats (mostly in English).
   - **[Rachel and Jun](https://www.youtube.com/@RachelandJun/videos)** - Their older channel. I don't know why they have two.
   - **[Jun's Kitchen](https://www.youtube.com/@JunsKitchen)** - Jun's mostly food-focused side channel.
+- **[Shiritori](https://kotobaweb.com/shiritori/create)** - Play Shiritori with friends or bots.
